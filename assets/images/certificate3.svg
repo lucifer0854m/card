@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700">
+<rect width="1000" height="700" rx="30" fill="#0F172A"></rect>
+<rect x="40" y="40" width="920" height="620" fill="none" stroke="#7c3aed" stroke-width="8"></rect>
+<text x="500" y="360" fill="white" font-size="44" text-anchor="middle">
+Google Data Analytics Certificate
+</text>
+</svg>

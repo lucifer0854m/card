@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+<rect width="128" height="128" rx="24" fill="#0F172A"></rect>
+
+<text x="50%" y="55%" font-size="34" font-family="Arial" font-weight="700" fill="#06b6d4" text-anchor="middle">
+
+AWS
+
+</text>
+
+<path d="M30 88
+Q64 110
+98 88" stroke="#7c3aed" stroke-width="6" fill="none" stroke-linecap="round"></path>
+
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+<linearGradient id="linux" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#7c3aed"></stop>
+<stop offset="100%" stop-color="#06b6d4"></stop>
+</linearGradient>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0F172A"></rect>
+
+<circle cx="64" cy="36" r="18" fill="url(#linux)"></circle>
+
+<ellipse cx="64" cy="74" rx="24" ry="28" fill="url(#linux)"></ellipse>
+
+<circle cx="58" cy="34" r="3" fill="#fff"></circle>
+<circle cx="70" cy="34" r="3" fill="#fff"></circle>
+
+<polygon points="64,42 60,48 68,48" fill="#fff"></polygon>
+
+<ellipse cx="54" cy="92" rx="6" ry="12" fill="#FACC15"></ellipse>
+<ellipse cx="74" cy="92" rx="6" ry="12" fill="#FACC15"></ellipse>
+</svg>

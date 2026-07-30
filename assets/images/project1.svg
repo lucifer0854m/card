@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<rect width="900" height="600" rx="30" fill="#111827"></rect>
+<text x="450" y="300" fill="#7c3aed" font-size="40" text-anchor="middle">
+Face Recognition Attendance
+</text>
+</svg>

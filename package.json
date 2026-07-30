@@ -1,0 +1,12 @@
+{
+  "name": "deepak-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Portfolio",
+  "author": "Deepak Lodhi",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server",
+    "build": "echo Build Complete"
+  }
+}

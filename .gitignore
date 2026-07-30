@@ -1,0 +1,29 @@
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# EmailJS Keys
+config.js
+
+# Temporary
+*.tmp
+*.bak
