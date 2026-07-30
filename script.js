@@ -455,7 +455,7 @@ cursor2.style.transform="translate(-50%,-50%) scale(1)";
             EMAIL JS
 ==================================================*/
 
-emailjs.init("YOUR_PUBLIC_KEY");
+emailjs.init("h0h5pAncFfz4aoQlp");
 
 const contactForm=document.getElementById("contact-form");
 
@@ -483,9 +483,9 @@ document.getElementById("message").value
 
 emailjs.send(
 
-"YOUR_SERVICE_ID",
+"service_f87eai4",
 
-"YOUR_TEMPLATE_ID",
+"template_vm4lz0k",
 
 params
 
